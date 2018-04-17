@@ -2,6 +2,8 @@
 
 ## Major TODO
 - [ ] Xiangqi Software itself
+    - Build backend (alg) with python and/or C++
+    - Visiualize in web
 - [ ] GUI
 
 ## Online Resources
