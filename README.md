@@ -9,7 +9,9 @@
 ## Online Resources
 
 ### Open-Source projects
-- [github: xiangqi](https://github.com/lhttjdr/xiangqi)
+- [github: AlphaZero in Python with Reinforcement Learning (active daily)](https://github.com/NeymarL/ChineseChess-AlphaZero)
+- [github: chiness chess engine in C](https://github.com/timebug/harmless)
+- [github: xiangqi in HTML5+Typescript](https://github.com/lhttjdr/xiangqi)
 
 ### GUI
 - ~~[How to Create a .Desktop File For Your Application in Linux](https://www.maketecheasier.com/create-desktop-file-linux/)~~
