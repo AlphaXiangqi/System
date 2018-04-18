@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+/* unvisited link */
+a:link {
+    color: #79ff87;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+p {
+    color: white;
+}
